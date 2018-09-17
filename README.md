@@ -1,2 +1,8 @@
-# dataSelfies
-Microblogs y micropolítica: retratos de datos y data selfies en Twitter. Proyecto seleccionado Visualizar18
+# Microblogs y micropolítica: retratos de datos y data selfies en Twitter
+![portada del proyecto Microblogs y micropolítica: retratos de datos y data selfies en Twitter en la que aparecen ventanas de escritorio de un sistema operativo con diferentes formas de visualización de información](https://www.medialab-prado.es/sites/default/files/styles/imagenes_medianas/public/2018-08/data-selfie_1.jpg?itok=T-Etdt82 "Microblogs y micropolítica: retratos de datos y data selfies en Twitter")
+
+Una vez liberados de la tiranía del timeline de Twitter, ¿cómo nos veríamos a nosotros mismos?, cómo una visualización creada a medida, puede ayudarnos a percibir nuestras cámaras de eco y aquellas de nuestras instituciones públicas y politicos electos? ¿Pueden los datos pequeños, de la información que producimos en los microblogs agenciar formas de micropolítica en el mundo normalizado, panóptico y enagenante del "Big Data"? ¿Puede el código convertirse en un lenguaje común, más allá de los programadores y los "tekies", para expresar formas de alfabetismo crítico en estas formas de micropolítica?
+
+En este proyecto, los participantes estarán en capacidades de exportar, scrapear, codificar y visualizar, de maneras originales, los datos personales que ellos producen de manera cotidiana en su timeline público de Twitter y, si queda tiempo, hacer algo similar con las instituciones públicas y politicos electos, puenteando la micropolítica y la política, el código, los datos, las visualizaciones y el alfabetismo digital, de modo que se puedan esbozar respuestas a estas preguntas y generar otras, con respuestas tentativas.
+
+[+ info del proyecto](https://www.medialab-prado.es/proyectos/microblogs-y-micropolitica-retratos-de-datos-y-data-selfies-en-twitter)
